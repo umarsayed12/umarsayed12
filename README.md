@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umar Khursheed</h1>
-I'm a passionate **Full Stack Developer** and **Graphic Designer** pursuing B.Tech in Information Technology at GL Bajaj Institute of Technology and Management. I enjoy solving complex problems and building innovative applications.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umarsayed12&label=Profile%20views&color=0e75b6&style=flat" alt="umarsayed12" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Web+Developer;Graphic+Designer" alt="Typing Animation" />
+</p>
+Pursuing B.Tech in Information Technology at GL Bajaj Institute of Technology and Management. I enjoy solving complex problems and building innovative applications.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=umarsayed12&label=Profile%20views&color=0e75b6&style=flat" alt="umarsayed12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umarsayed12" alt="umarsayed12" /></a> </p>
 
