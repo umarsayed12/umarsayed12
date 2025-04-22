@@ -84,6 +84,7 @@ I enjoy solving complex problems, building innovative applications, and constant
 ## 📊 GitHub Stats
 
 <div align="center">
+<img src=https://github-readme-stats.vercel.app/api?username=umarsayed12&show_icons=true alt=Umar Khursheed />
 <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=umarsayed12&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
 <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=umarsayed12&bg_color=1a1b27&color=628fda&line=2fcbfe&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
