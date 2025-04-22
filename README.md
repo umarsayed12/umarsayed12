@@ -28,6 +28,56 @@ I enjoy solving complex problems, building innovative applications, and constant
 
 ---
 
+## 💡 Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🟣 <a href="https://github.com/umarsayed12/Learning-Management-System">Learning Management System</a></h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" alt="Status" />
+        </p>
+        <p>
+          • A full-stack LMS platform under development for efficient course and user management<br>
+          • User roles for Admin, Teacher, and Students with protected routes<br>
+          • Features: Course enrollment, video lectures, progress tracking, quiz modules (upcoming)<br>
+          • <b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB, JWT, TailwindCSS
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🟢 <a href="https://github.com/Udit55Sharma/EndPrep">EndPrep</a></h3>
+        <p>
+          • A smart platform to enhance learning with interactive exam paper viewing and discussions<br>
+          • AI-powered chatbot answers student queries about papers using Google Gemini API<br>
+          • Includes real-time discussion forums, user authentication, and admin paper uploads<br>
+          • <b>Tech Stack:</b> Django, PostgreSQL, JavaScript, DocTR, Google Gemini API
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🔵 <a href="https://github.com/umarsayed12/Blog-App">Enlighten ( Blog App )</a></h3>
+        <p>
+          • A modern blogging platform to Create, Edit, Delete, and Share blogs worldwide<br>
+          • Uses Appwrite for backend services like Auth, DB, and Storage<br>
+          • Real-time rich text editing with TinyMCE and powerful form handling via React-Hook-Form<br>
+          • <b>Tech Stack:</b> React.js, TailwindCSS, Appwrite, Redux, TinyMCE, Material UI
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">💡 More Projects Coming Soon!</h3>
+        <p align="center">
+          <i>Stay tuned for more creations – innovation never stops!</i>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+---
+
 ## 🛠 Tech Stack
 
 <div align="center">
