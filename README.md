@@ -1,46 +1,89 @@
 <h1 align="center">Hi 👋, I'm Umar Khursheed</h1>
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=blue&width=435&lines=Full+Stack+Web+Developer;Graphic+Designer" alt="Typing Animation" />
-</p>
-Pursuing B.Tech in Information Technology at GL Bajaj Institute of Technology and Management. I enjoy solving complex problems and building innovative applications.
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=umarsayed12&label=Profile%20views&color=0e75b6&style=flat" alt="umarsayed12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umarsayed12" alt="umarsayed12" /></a> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=500&height=60&lines=Full+Stack+Web+Developer;Graphic+Designer;B.Tech+IT+Student+at+GL+Bajaj;Always+Learning+%26+Building" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://twitter.com/umarsay10637826" target="blank"><img src="https://img.shields.io/twitter/follow/umarsay10637826?logo=twitter&style=for-the-badge" alt="umarsay10637826" /></a> </p>
+<div align="center">
+  <a href="https://github.com/umarsayed12">
+    <img src="https://komarev.com/ghpvc/?username=umarsayed12&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on [Learning Management System](https://github.com/umarsayed12/Learning-Management-System)
+<hr/>
 
-- 🌱 I’m currently learning **NodeJs, ExpressJs, MongoDB, PostgreSQL,**
+## 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://umar-khursheed.netlify.app/](https://umar-khursheed.netlify.app/)
+I'm a creative and driven **Full Stack Developer** and **Graphic Designer**, currently pursuing **B.Tech in Information Technology at GL Bajaj Institute of Technology and Management**.
 
-- 📝 I regularly write articles on [https://umarkhursheed.hashnode.dev/](https://umarkhursheed.hashnode.dev/)
+I enjoy solving complex problems, building innovative applications, and constantly leveling up my skills. Currently diving deeper into **Node.js, Express.js, MongoDB, PostgreSQL**, and more!
 
-- 💬 Ask me about **ReactJs, Redux, TailwindCSS, Javascript, HTML, CSS, Python, C++, Postman, Git, Github, Appwrite**
+- 🔭 I’m currently working on [Learning Management System](https://github.com/umarsayed12/Learning-Management-System)  
+- 🌱 I’m learning: **NodeJs, ExpressJs, MongoDB, PostgreSQL**  
+- 💬 Ask me about: **ReactJs, Redux, TailwindCSS, JavaScript, HTML/CSS, Python, C++, Postman, Appwrite**  
+- 📝 I blog at: [umarkhursheed.hashnode.dev](https://umarkhursheed.hashnode.dev/)  
+- 📄 [View My Resume](https://drive.google.com/file/d/13qNs4jaZm_-0gxbmrMGCYMOU3X3p9RDA/view?usp=sharing)  
+- 🌐 Portfolio: [umar-khursheed.netlify.app](https://umar-khursheed.netlify.app/)  
+- 📫 Reach me at: **umarkhursheed979@gmail.com**
 
-- 📫 How to reach me **umarkhursheed979@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13qNs4jaZm_-0gxbmrMGCYMOU3X3p9RDA/view?usp=sharing](https://drive.google.com/file/d/13qNs4jaZm_-0gxbmrMGCYMOU3X3p9RDA/view?usp=sharing)
+## 🛠 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/umarsay10637826" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umarsay10637826" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/umar-khursheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umar-khursheed" height="30" width="40" /></a>
-<a href="https://instagram.com/umar_sayed_147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umar_sayed_147" height="30" width="40" /></a>
-<a href="https://hashnode.com/@umar8400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@umar8400" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/good_bats_76" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="good_bats_76" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/umarkhursheed979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="umarkhursheed979" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/umar_it2206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="umar_it2206" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/umar_khursheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umar_khursheed" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/umarkhurs1n0y/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="umarkhurs1n0y/profile" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umarsayed12&show_icons=true&locale=en&layout=compact" alt="umarsayed12" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umarsayed12&show_icons=true&locale=en" alt="umarsayed12" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umarsayed12&" alt="umarsayed12" /></p>
+## 🔗 Connect with Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umarkhursheed979@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umar-khursheed)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/umarsay10637826)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/umar_sayed_147)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@umar8400)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarsayed12)
+
+</div>
+
+---
+
+## 🧠 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/umar_khursheed)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/umar_it2206)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/umarkhursheed979)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/good_bats_76)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/umarkhurs1n0y/profile)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=umarsayed12&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
+<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=umarsayed12&bg_color=1a1b27&color=628fda&line=2fcbfe&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
